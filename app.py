@@ -4,5 +4,5 @@ print("  /  |")
 print(" /   |")
 print("/____|")
 
-# variable and data types
+# variables and data types
 
